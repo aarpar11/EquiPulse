@@ -2,3 +2,5 @@ streamlit
 numpy
 scipy
 opencv-python-headless
+onnxruntime
+flask
